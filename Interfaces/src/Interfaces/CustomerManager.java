@@ -3,7 +3,7 @@ package Interfaces;
 public class CustomerManager {
 
 	
- /* For SOLID principle applied code, CustomerManager Class is constructing with Logger Interface...
+     /* For SOLID principle applied code, CustomerManager Class is constructing with Logger Interface...
 	So, when It's constructing logging type is defined with this way, It protects system from any problem when 
 	any change needed in future.(for example developer decided to remove EmailLogging method, no worries! just delete class.) 
 	There are no dependency between classes!                                                                                   */
