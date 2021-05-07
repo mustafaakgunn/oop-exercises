@@ -5,6 +5,6 @@
  
  ----------------------EXPLANATIONS ABOUT EACH PROJECT-------------------------
  
- Odev2 includes inheritance-polymorphism applications.
+ Odev2(DAY 3- HOMEWORK2) includes inheritance-polymorphism applications.
  
  Interfaces includes some interface exercises.
