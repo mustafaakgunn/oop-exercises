@@ -1,6 +1,6 @@
 # JAVA-REACT-CAMP-w-KODLAMAIO
 
-Java & JS-React bootcamp held by Engin Demiroğ on kodlama.io platform.
+Java & JS-React bootcamp held by Engin Demiroğ on kodlama.io platform. /n
 This repository includes homeworks and projects that related with the bootcamp.
 During this course I tried to write my code with SOLID and DRY principles.
 
