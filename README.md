@@ -9,7 +9,7 @@ During this course I tried to write my code with SOLID and DRY principles.
  
  ----------------------EXPLANATIONS ABOUT EACH PROJECT-------------------------
  
- *Odev2(DAY 3- HOMEWORK2) includes inheritance-polymorphism applications.
+ *Day3HW2 includes inheritance-polymorphism applications.
  
  *Interfaces includes some interface exercises.
  
