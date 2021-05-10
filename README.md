@@ -17,4 +17,4 @@ During this course I tried to write my code with SOLID and DRY principles.
  
  *Day4HW3 includes an individual work about OOP(inheritance-polymorphism-abstract,interface).
  
- *nLayeredDemo includes a work about Layered Architecture. It's also includes how to adapt outcomer packages.
+ *nLayeredDemo includes a work about Layered Architecture. It's also includes how to adapt external packages.
