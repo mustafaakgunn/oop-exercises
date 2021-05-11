@@ -21,7 +21,7 @@ public class Main {
 		productManager.logIn("mustafaakgundev@gmail.com","122323232",user);
 		
 		//Google login system is out service. I adapted this service with an adapter in "core" package.
-		//It's checks email with regex (@gmail pattern), and password with Lenght.
+		//It's checks email with regex (@gmail pattern), and password with Length.
 		GoogleLogInAdapter googleLogin = new GoogleLogInAdapter();
 		googleLogin.login("googlemail@gmail.com","123456");
 		
